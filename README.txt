@@ -36,5 +36,5 @@ Tested with the Steam version of the game, patch 1.2 (15 October 2026).
 WITHOUT THIS FIX
 Turning DLSS Frame Generation off also avoids the crash. Restart the game after changing the setting.
 
-Source code and technical details: see the mod page.
+Source code and technical details: https://github.com/nathtest/SWZC_fgfix
 Not affiliated with Bit Reactor, Electronic Arts or Lucasfilm. Remove the fix once the game is patched.

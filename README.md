@@ -2,7 +2,8 @@
 
 Source of the community fix for random crashes of STAR WARS Zero Company with NVIDIA DLSS Frame Generation on
 (RTX 40 / 50 series): crashes, mostly in the engine's garbage collection, while loading a save or quitting.
-Player instructions are in [README.txt](README.txt), which ships in the release zip.
+Download: [Nexus Mods](https://www.nexusmods.com/starwarszerocompany/mods/404). Player instructions are in
+[README.txt](README.txt), which ships in the release zip.
 
 ## The bug
 
